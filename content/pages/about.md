@@ -5,9 +5,9 @@ Slug: about
 Authors: Jean-Francis Roy
 Summary: About Jean-Francis Roy
 
-This is a test for a static page.
+This webpage is currently in construction.
 
-## Python
+## Testing Python syntax
 ```python
 def f(x):
     result = ""
@@ -18,6 +18,7 @@ def f(x):
 ```
 
 ## Some MathJax
+Let $n$ be a non-negative integer of your choice.
 $$
 f_n\ =\ \sum_{i=1}^n a_i\,.
 $$
