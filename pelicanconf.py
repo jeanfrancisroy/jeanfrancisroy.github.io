@@ -38,5 +38,5 @@ THEME = '/home/jf/dev/git/pelican/pelican-themes/gum'
 PLUGIN_PATHS = ['/home/jf/dev/git/pelican']
 PLUGINS = ['render_math']
 
-STATIC_PATHS = ['extra/CNAME']
+STATIC_PATHS = ['extra/CNAME', 'pdfs']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
