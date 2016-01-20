@@ -1,6 +1,7 @@
 Title: Curriculum Vitae
 Authors: Jean-Francis Roy
 Summary: Jean-Francis Roy's Curriculum Vitae
+order: 4
 
 This is currently a test for embedding a PDF.
 
