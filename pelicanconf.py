@@ -40,8 +40,8 @@ DEFAULT_PAGINATION = 10
 # MENUITEMS = [('Home', '/')]
 PAGE_ORDER_BY = 'order'
 
-THEME = '/home/jf/dev/git/pelican/pelican-themes/gum'
-PLUGIN_PATHS = ['/home/jf/dev/git/pelican']
+THEME = '/home/jfroy/perso/git/pelican-themes/gum'
+PLUGIN_PATHS = ['/home/jfroy/perso/git/pelican-plugins']
 PLUGINS = ['render_math', 'pelican-bibtex']
 
 PUBLICATIONS_SRC = 'content/jf.bib'
